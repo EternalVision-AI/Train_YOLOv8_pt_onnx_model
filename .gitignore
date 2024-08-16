@@ -1,2 +1,4 @@
 runs/
 wandb/
+datasets/train/
+datasets/val/
